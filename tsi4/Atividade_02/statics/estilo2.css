@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(255, 130, 130);
+}
+
+p{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.ah{
+    color: rgb(255, 255, 255);
+}
+
+
+img{
+    height: 50px;
+    width: 50px;
+}
